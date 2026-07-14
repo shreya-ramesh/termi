@@ -1,0 +1,9 @@
+{
+  "provider": "groq",
+  "model": "llama-3.3-70b-versatile",
+  "safe_mode": true,
+  "auto_execute": false,
+  "history_size": 10,
+  "theme": "default",
+  "shell_override": null
+}
