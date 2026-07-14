@@ -14,7 +14,7 @@ It works across **Windows, Linux, and macOS**, automatically detects your operat
 
 ## 🎥 Demo
 
-> Demo GIF / Video coming soon
+https://github.com/user-attachments/assets/778762da-46b0-4f7a-b4ab-8d96ec2c46a3
 
 
 
